@@ -3,6 +3,8 @@ import React from "react";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
+<img src="%PUBLIC_URL%/assets/heroImage.jpg" alt="HeroImageofme" />
+
 
 export const Hero = () => {
   return (
