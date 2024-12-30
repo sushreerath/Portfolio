@@ -1,0 +1,26 @@
+[
+  {
+    "title": "DICE GAME",
+    "imageSrc": "dice.png",
+    "description": "Built an interactive Dice Game in ReactJS which includes dice roll displaying random nums with each roll and keeping track of scores.",
+    "skills": ["React", "JavaScript", "API"],
+    "demo": "https://dice-game-pearl-rho.vercel.app/",
+    "source": "https://github.com/sushreerath/dice-game"
+  },
+  {
+    "title": "Gemini Clone",
+    "imageSrc": "ai.png",
+    "description": "Developed AI SUVYA, a Gemini-AI clone in React.js, replicating key Gemini features with React.js, state management, and UI/UX design.",
+    "skills": ["React", "JavaScript", "API"],
+    "demo": "https://ai-suvya.vercel.app/",
+    "source": "https://github.com/sushreerath/AI-Suvya"
+  },
+  {
+    "title": "Blinkit Sales dashboard",
+    "imageSrc": "powerbi.png",
+    "description": "Analyzed Blinkit's sales performance using SQL, Excel, and PowerBI to extract actionable insights.",
+    "skills": ["PowerBI", "SQL", "MS-Excel"],
+    "demo": "https://www.linkedin.com/posts/sushree-rath-251552269_powerbi-dataanalysis-datacleaning-activity-7221879177552019457-V3sN?utm_source=share&utm_medium=member_desktop",
+    "source": "-"
+  }
+]

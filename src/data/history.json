@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Vyapak Information Pvt Ltd",
+    "startDate": "May 2024",
+    "experiences": ["Contributed to multiple mobile applications","Proficient in PyAutoGUI automation tasks."],
+    "imageSrc": "vyapak.jpeg"
+  },
+  {
+    "role": "Web Master",
+    "organisation": "IEEE WIE AFFINITY GROUP",
+    "startDate": "July 2024",
+    "endDate": "Present",
+    "experiences": ["Web Master", "Assistant Secretary of Student Activities"],
+    "imageSrc": "ieee.jpeg"
+  }
+  
+]
